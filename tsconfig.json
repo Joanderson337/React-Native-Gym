@@ -23,7 +23,7 @@
         "./src/utils/*"
       ],
       "@services/*": [
-        "./src/services/*"
+        "src/services/*"
       ],
       "@hooks/*": [
         "./src/hooks/*"
